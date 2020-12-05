@@ -90,8 +90,8 @@ class Projects extends Component {
           onChange={(tabId) => this.setState({ activeTab: tabId })}
           ripple
         >
-          <Tab>React</Tab>
-          <Tab>MongoDB</Tab>
+          <Tab>Group Projects</Tab>
+          <Tab>Individual Projects</Tab>
         </Tabs>
 
         <Grid>
