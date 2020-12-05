@@ -87,8 +87,12 @@
   color: white;
 }
 
-.social-links {
+.banner-text p {
   color: white;
+}
+
+.social-links {
+  color: rgb(255, 255, 255);
   font-size: 5em;
   padding: 8px;
   display: flex;
