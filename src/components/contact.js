@@ -12,28 +12,14 @@ class Contact extends Component {
             <img
               src="https://cdn.images.letsenhance.io/thumbnails/s3/18238136/json?response-content-disposition=attachment%3B+filename%2A%3Dutf-8%27%27ahmed_sheikh_auto_x1.jpg&response-content-type=image%2Fjpeg&signature=NikOm1IyQhgqtFzcFonJaq9JzyU%3D"
               alt="avatar"
-              style={{height: '250px'}}
+              style={{height: '350px'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>  A current masters candidate for Policy, Planning and Management at the USM
-                        Muskie
-                        School of Public Service interested in furthering and expanding my skillset in a tech driven
-                        world.
-                        I have always been interested in the world of tech but have never had the opportunity to
-                        exercise my
-                        interests formally.
-                     Coming from a background in social services and policy work, I aim to
-                        become
-                        a full stack software developer and create bridges between social services and the world of
-                        tech.
-                        With UNH's Coding Bootcamp, I envision this dream becoming more and more a reality.
-                    Currently I work as a mental health case manager but continue to challenge
-                        myself by managing a local non profit, running, afterschool tutoring programs and enagaging in
-                        community wide developement projects.
-                    I am interested in learning more about software developement all the
-                        amazing
-                        things you can do with code! My goal is to start my own FinTech company and tap into the
-                        burgeoning space of blockchain technology.
-                    </p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>  
+                A current masters candidate for Policy, Planning and Management at the USM Muskie School of Public Service 
+                interested in furthering and expanding my skillset in a tech driven world. Coming from a background in social services and policy work, 
+                I aim to become a full stack software developer and create bridges between social services and the world of tech. With UNH's Coding Bootcamp, 
+                I envision this dream becoming more and more a reality.  
+              </p>
 
           </Cell>
           <Cell col={6}>
@@ -45,28 +31,28 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-phone-square" aria-hidden="true"/>
-                    (123) 456-7890
+                    (207) 344-5405
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-fax" aria-hidden="true"/>
-                    (123) 456-7890
+                    https://www.linkedin.com/in/ahmed-sheikh-04240/
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
-                    someone@example.com
+                    ahsheikh.a@gmail.com
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-skype" aria-hidden="true"/>
-                    My GitHub ID
+                    ASheikh-io
                   </ListItemContent>
                 </ListItem>
 
