@@ -37,13 +37,6 @@ class Contact extends Component {
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-fax" aria-hidden="true"/>
-                    https://www.linkedin.com/in/ahmed-sheikh-04240/
-                  </ListItemContent>
-                </ListItem>
-
-                <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
                     ahsheikh.a@gmail.com
                   </ListItemContent>
@@ -51,8 +44,15 @@ class Contact extends Component {
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-skype" aria-hidden="true"/>
+                    <i className="fa fa-github" aria-hidden="true"/>
                     ASheikh-io
+                  </ListItemContent>
+                </ListItem>
+
+                <ListItem>
+                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
+                    <i className="fa fa-linkedin" aria-hidden="true"/>
+                    Ahmed-Sheikh-04240
                   </ListItemContent>
                 </ListItem>
 
